@@ -11,7 +11,7 @@ Departure Time: "2018-06-07T12:00:00.000Z"
 ## Query for De Lijn
 ```json
 Departure Stop: "https://data.delijn.be/stops/111179"; // Gent Rozemarijnbrug
-Arrival Stop: "https://data.delijn.be/stops/126818'; // Zwijnaarde Bibliotheek
+Arrival Stop: "https://data.delijn.be/stops/126818"; // Zwijnaarde Bibliotheek
 Departure Time: "2018-06-07T12:00:00.000Z"
 ```
 
