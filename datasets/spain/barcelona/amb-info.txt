@@ -1,0 +1,2 @@
+https://ssl.ambmobilitat.cat/transit/trips-updates/trips.bin
+http://www.ambmobilitat.cat/OpenData/google_transit.zip
