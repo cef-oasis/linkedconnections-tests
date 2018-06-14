@@ -9,11 +9,14 @@ readCSVs = function (path) {
 
 #sncb = readCSVs("/home/julian/Desktop/results/nmbs/no_cache")
 #sncb_cache = readCSVs("/home/julian/Desktop/results/nmbs/cache")
-#delijn = readCSVs("/home/julian/Desktop/results/delijn/no_cache")
+delijn = readCSVs("/home/julian/Desktop/results/delijn/no_cache")
 #delijn_cache = readCSVs("/home/julian/Desktop/results/delijn/cache")
 #tbs = readCSVs("/home/julian/Desktop/results/tbs-barcelona/no_cache")
 #tbs_cache = readCSVs("/home/julian/Desktop/results/tbs-barcelona/cache")
-#tbx = readCSVs("/home/julian/Desktop/results/tbx-barcelona/no_cache")
-tbx_cache = readCSVs("/home/julian/Desktop/results/tbx-barcelona/cache")
+#tram = readCSVs("/home/julian/Desktop/results/tram-madrid/no_cache")
+#tram_cache = readCSVs("/home/julian/Desktop/results/tram-madrid/cache")
 
-ggplot(tbx_cache, aes(x=as.factor(X2), y=X4)) + geom_violin(scale = "width") + stat_summary(fun.y=median, geom="point", size=2, color="red") + ggtitle("TBX Barcelona Fragmentations with cache") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Fragmentation (bytes)") + ylab("Response Time (ms)")
+ggplot(delijn, aes(x=as.factor(X6), y=X9)) + geom_violin(scale = "width") + stat_summary(fun.y=median, geom="point", size=2, color="red") + ggtitle("De Lijn Fragmentations without cache") + theme(plot.title = element_text(hjust = 0.5)) + xlab("Fragmentation (bytes)") + ylab("Response Time (ms)")
+
+#sncb10k = read.csv("/home/julian/Desktop/results/nmbs/no_cache/10000.csv")
+#plot(sncb10k$CONNECTIONS, sncb10k$RESPONSE_TIME)

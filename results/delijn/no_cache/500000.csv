@@ -1,31 +1,11 @@
-COMPANY,FRAGMENT_SIZE,REQUESTS,RESPONSE_TIME
-De Lijn,500000,25,25843
-De Lijn,500000,25,25469
-De Lijn,500000,25,24824
-De Lijn,500000,25,25550
-De Lijn,500000,25,25135
-De Lijn,500000,25,25482
-De Lijn,500000,25,25940
-De Lijn,500000,25,25231
-De Lijn,500000,25,24577
-De Lijn,500000,25,24696
-De Lijn,500000,25,25135
-De Lijn,500000,25,25678
-De Lijn,500000,25,25421
-De Lijn,500000,25,25176
-De Lijn,500000,25,25505
-De Lijn,500000,25,25535
-De Lijn,500000,25,25217
-De Lijn,500000,25,25791
-De Lijn,500000,25,25262
-De Lijn,500000,25,25846
-De Lijn,500000,25,25261
-De Lijn,500000,25,25787
-De Lijn,500000,25,25758
-De Lijn,500000,25,26583
-De Lijn,500000,25,26738
-De Lijn,500000,25,26744
-De Lijn,500000,25,25669
-De Lijn,500000,25,25911
-De Lijn,500000,25,25978
-De Lijn,500000,25,24912
+COMPANY,DEPARTURE_STOP,ARRIVAL_STOP,DEPARTURE_TIME,MAX_TRANSFERS,FRAGMENT_SIZE,FRAGMENTS,CONNECTIONS,RESPONSE_TIME
+delijn,https://data.delijn.be/stops/120281,https://data.delijn.be/stops/126536,2018-06-07T13:00:00.000Z,0,500000,20,34696,20588
+delijn,https://data.delijn.be/stops/120281,https://data.delijn.be/stops/126536,2018-06-07T13:00:00.000Z,0,500000,20,34696,20278
+delijn,https://data.delijn.be/stops/111179,https://data.delijn.be/stops/126818,2018-06-07T12:00:00.000Z,0,500000,25,42270,26539
+delijn,https://data.delijn.be/stops/111179,https://data.delijn.be/stops/126818,2018-06-07T12:00:00.000Z,0,500000,25,42270,27890
+delijn,https://data.delijn.be/stops/111176,https://data.delijn.be/stops/126818,2018-06-07T12:00:00.000Z,0,500000,32,54659,33772
+delijn,https://data.delijn.be/stops/111176,https://data.delijn.be/stops/126818,2018-06-07T12:00:00.000Z,0,500000,32,54659,33955
+delijn,https://data.delijn.be/stops/126622,https://data.delijn.be/stops/111388,2018-06-07T12:00:00.000Z,0,500000,42,73166,46051
+delijn,https://data.delijn.be/stops/126622,https://data.delijn.be/stops/111388,2018-06-07T12:00:00.000Z,0,500000,42,73166,47145
+delijn,https://data.delijn.be/stops/112358,https://data.delijn.be/stops/111446,2018-06-07T13:00:00.000Z,1,500000,73,114059,97756
+delijn,https://data.delijn.be/stops/112358,https://data.delijn.be/stops/111446,2018-06-07T13:00:00.000Z,1,500000,73,114059,95547

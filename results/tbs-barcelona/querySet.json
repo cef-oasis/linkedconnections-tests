@@ -1,0 +1,1252 @@
+{
+    "querySet": [
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/22",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 41
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/8",
+            "to": "https://barcelona.tbs.es/stops/9",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 57
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/27",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-08T00:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 59
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/21",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-08T00:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 59
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/14",
+            "depTime": "2018-06-08T00:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 59
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/24",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-08T00:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 59
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/20",
+            "depTime": "2018-06-08T00:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 59
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/7",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 63
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 69
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/9",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 73
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/2",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 73
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/24",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 74
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 88
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/28",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 97
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 97
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 98
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/22",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 98
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/20",
+            "to": "https://barcelona.tbs.es/stops/2",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 98
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/30",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 102
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 102
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 103
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 103
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/30",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 106
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/2",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 112
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/22",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 114
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 114
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 114
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 119
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 120
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/7",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 123
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/22",
+            "to": "https://barcelona.tbs.es/stops/5",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 123
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 123
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/27",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 123
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/2",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 126
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 127
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 129
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/5",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 129
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/24",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 129
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/28",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 129
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/22",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 135
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 135
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/28",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 135
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/3bis",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 135
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 141
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/22",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 146
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 146
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 146
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/3bis",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 149
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 149
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 149
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 149
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 149
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 152
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/26",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 152
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 153
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/28",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 164
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 170
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3bis",
+            "to": "https://barcelona.tbs.es/stops/28",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 174
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/27",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 174
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 175
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/30",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/2",
+            "to": "https://barcelona.tbs.es/stops/3bis",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/3bis",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/14",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 177
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 187
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/23",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 190
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 190
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/10",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 190
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 190
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T22:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 190
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/28",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 194
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T23:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 194
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 195
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 195
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/23",
+            "to": "https://barcelona.tbs.es/stops/14",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 198
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/2",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 200
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/14",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 200
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/21",
+            "to": "https://barcelona.tbs.es/stops/5",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 201
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 201
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 201
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 201
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 201
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/22",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 203
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 203
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 203
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 204
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 204
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/26",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 221
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/7",
+            "to": "https://barcelona.tbs.es/stops/22",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 225
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 225
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/14",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 225
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/10",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 225
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/20",
+            "to": "https://barcelona.tbs.es/stops/5",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 225
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 226
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 226
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 229
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/7",
+            "depTime": "2018-06-07T21:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 230
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/28",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 236
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T20:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 237
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/23",
+            "to": "https://barcelona.tbs.es/stops/20",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 244
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 245
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/20",
+            "depTime": "2018-06-07T10:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 245
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/27",
+            "to": "https://barcelona.tbs.es/stops/3",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 249
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 251
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/19",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 252
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/21",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 252
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 252
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/10",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 252
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3bis",
+            "to": "https://barcelona.tbs.es/stops/30",
+            "depTime": "2018-06-07T09:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 256
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 267
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/6",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 268
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/23",
+            "to": "https://barcelona.tbs.es/stops/10",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 275
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 275
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/20",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 275
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 275
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 277
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/10",
+            "to": "https://barcelona.tbs.es/stops/28",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 279
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/23",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 279
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/30",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 279
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/25",
+            "to": "https://barcelona.tbs.es/stops/7",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 286
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3bis",
+            "to": "https://barcelona.tbs.es/stops/19",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 298
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/7",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 298
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3",
+            "to": "https://barcelona.tbs.es/stops/19",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 298
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/24",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 312
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 312
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/5",
+            "to": "https://barcelona.tbs.es/stops/27",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 323
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/20",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 323
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/26",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T11:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 323
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 325
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/4",
+            "depTime": "2018-06-07T19:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 327
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/22",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 341
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/25",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 347
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/20",
+            "to": "https://barcelona.tbs.es/stops/30",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 347
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3",
+            "to": "https://barcelona.tbs.es/stops/19",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 349
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 349
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/24",
+            "depTime": "2018-06-07T16:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 371
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/11",
+            "to": "https://barcelona.tbs.es/stops/6",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 372
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/13",
+            "to": "https://barcelona.tbs.es/stops/8",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 390
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/2",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 395
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/29",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 395
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/4",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 398
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/21",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 398
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3bis",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 398
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/3bis",
+            "to": "https://barcelona.tbs.es/stops/11",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 398
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/8",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T18:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 408
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/7",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 410
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/30",
+            "to": "https://barcelona.tbs.es/stops/13",
+            "depTime": "2018-06-07T06:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 413
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/28",
+            "to": "https://barcelona.tbs.es/stops/10",
+            "depTime": "2018-06-07T14:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 421
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/16",
+            "depTime": "2018-06-07T08:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 483
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/9",
+            "to": "https://barcelona.tbs.es/stops/17",
+            "depTime": "2018-06-07T04:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 493
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/16",
+            "to": "https://barcelona.tbs.es/stops/29",
+            "depTime": "2018-06-07T17:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 495
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/21",
+            "depTime": "2018-06-07T07:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 495
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/20",
+            "depTime": "2018-06-07T15:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 518
+        },
+        {
+            "company": "tbs-barcelona",
+            "from": "https://barcelona.tbs.es/stops/14",
+            "to": "https://barcelona.tbs.es/stops/10",
+            "depTime": "2018-06-07T05:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 556
+        }
+    ]
+}

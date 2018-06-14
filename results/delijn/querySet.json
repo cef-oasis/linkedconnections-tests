@@ -1,0 +1,44 @@
+{
+    "querySet": [
+        {
+            "company": "delijn",
+            "from": "https://data.delijn.be/stops/120281",
+            "to": "https://data.delijn.be/stops/126536",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 34696
+        },
+        {
+            "company": "delijn",
+            "from": "https://data.delijn.be/stops/111179",
+            "to": "https://data.delijn.be/stops/126818",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 42270
+        },
+        {
+            "company": "delijn",
+            "from": "https://data.delijn.be/stops/111176",
+            "to": "https://data.delijn.be/stops/126818",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 54659
+        },
+        {
+            "company": "delijn",
+            "from": "https://data.delijn.be/stops/126622",
+            "to": "https://data.delijn.be/stops/111388",
+            "depTime": "2018-06-07T12:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 73166
+        },
+        {
+            "company": "delijn",
+            "from": "https://data.delijn.be/stops/112358",
+            "to": "https://data.delijn.be/stops/111446",
+            "depTime": "2018-06-07T13:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 114059
+        }
+    ]
+}
