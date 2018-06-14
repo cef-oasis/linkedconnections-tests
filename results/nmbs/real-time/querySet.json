@@ -1,0 +1,532 @@
+{
+    "querySet": [
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008841608",
+            "to": "http://irail.be/stations/NMBS/008841319",
+            "depTime": "2018-06-14T17:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 3771
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008831005",
+            "to": "http://irail.be/stations/NMBS/008831310",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 1,
+            "connections": 4019
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811155",
+            "to": "http://irail.be/stations/NMBS/008814415",
+            "depTime": "2018-06-14T16:20:00.000Z",
+            "maxTransf": 1,
+            "connections": 4347
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008881166",
+            "to": "http://irail.be/stations/NMBS/008886553",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 2,
+            "connections": 4572
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008814308",
+            "to": "http://irail.be/stations/NMBS/008833209",
+            "depTime": "2018-06-14T14:40:00.000Z",
+            "maxTransf": 3,
+            "connections": 5094
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811189",
+            "to": "http://irail.be/stations/NMBS/008821246",
+            "depTime": "2018-06-14T15:00:00.000Z",
+            "maxTransf": 0,
+            "connections": 5181
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008861200",
+            "to": "http://irail.be/stations/NMBS/008872306",
+            "depTime": "2018-06-14T16:00:00.000Z",
+            "maxTransf": 3,
+            "connections": 5294
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008863404",
+            "to": "http://irail.be/stations/NMBS/008841558",
+            "depTime": "2018-06-14T14:50:00.000Z",
+            "maxTransf": 1,
+            "connections": 5684
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008833233",
+            "to": "http://irail.be/stations/NMBS/008814308",
+            "depTime": "2018-06-14T14:50:00.000Z",
+            "maxTransf": 3,
+            "connections": 5684
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008822343",
+            "to": "http://irail.be/stations/NMBS/008821964",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 1,
+            "connections": 5702
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008822343",
+            "to": "http://irail.be/stations/NMBS/008821071",
+            "depTime": "2018-06-14T15:10:00.000Z",
+            "maxTransf": 1,
+            "connections": 5749
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008822111",
+            "to": "http://irail.be/stations/NMBS/008833209",
+            "depTime": "2018-06-14T16:30:00.000Z",
+            "maxTransf": 3,
+            "connections": 6163
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811221",
+            "to": "http://irail.be/stations/NMBS/008833050",
+            "depTime": "2018-06-14T15:00:00.000Z",
+            "maxTransf": 3,
+            "connections": 6321
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811767",
+            "to": "http://irail.be/stations/NMBS/008883311",
+            "depTime": "2018-06-14T14:10:00.000Z",
+            "maxTransf": 3,
+            "connections": 6569
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008883436",
+            "to": "http://irail.be/stations/NMBS/008881000",
+            "depTime": "2018-06-14T16:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 6612
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008895000",
+            "to": "http://irail.be/stations/NMBS/008811007",
+            "depTime": "2018-06-14T14:30:00.000Z",
+            "maxTransf": 2,
+            "connections": 6739
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008833001",
+            "to": "http://irail.be/stations/NMBS/008821717",
+            "depTime": "2018-06-14T16:40:00.000Z",
+            "maxTransf": 1,
+            "connections": 6826
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008891702",
+            "to": "http://irail.be/stations/NMBS/008893559",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 3,
+            "connections": 6837
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008885522",
+            "to": "http://irail.be/stations/NMBS/008886009",
+            "depTime": "2018-06-14T15:50:00.000Z",
+            "maxTransf": 3,
+            "connections": 6918
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811403",
+            "to": "http://irail.be/stations/NMBS/008883022",
+            "depTime": "2018-06-14T15:50:00.000Z",
+            "maxTransf": 2,
+            "connections": 6918
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008881406",
+            "to": "http://irail.be/stations/NMBS/008881190",
+            "depTime": "2018-06-14T17:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 7119
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811817",
+            "to": "http://irail.be/stations/NMBS/008871217",
+            "depTime": "2018-06-14T14:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 7235
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008812229",
+            "to": "http://irail.be/stations/NMBS/008841327",
+            "depTime": "2018-06-14T14:40:00.000Z",
+            "maxTransf": 3,
+            "connections": 7360
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811288",
+            "to": "http://irail.be/stations/NMBS/008814449",
+            "depTime": "2018-06-14T14:40:00.000Z",
+            "maxTransf": 1,
+            "connections": 7360
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008833159",
+            "to": "http://irail.be/stations/NMBS/008811528",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 3,
+            "connections": 7424
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811445",
+            "to": "http://irail.be/stations/NMBS/008821832",
+            "depTime": "2018-06-14T16:50:00.000Z",
+            "maxTransf": 3,
+            "connections": 7511
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008833209",
+            "to": "http://irail.be/stations/NMBS/008832227",
+            "depTime": "2018-06-14T16:50:00.000Z",
+            "maxTransf": 1,
+            "connections": 7511
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821071",
+            "to": "http://irail.be/stations/NMBS/008814001",
+            "depTime": "2018-06-14T14:10:00.000Z",
+            "maxTransf": 1,
+            "connections": 7695
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008863008",
+            "to": "http://irail.be/stations/NMBS/008871332",
+            "depTime": "2018-06-14T16:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 7728
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008871225",
+            "to": "http://irail.be/stations/NMBS/008863008",
+            "depTime": "2018-06-14T14:30:00.000Z",
+            "maxTransf": 1,
+            "connections": 7879
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821071",
+            "to": "http://irail.be/stations/NMBS/008811528",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 1,
+            "connections": 7982
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008843166",
+            "to": "http://irail.be/stations/NMBS/008812005",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 3,
+            "connections": 7982
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008831039",
+            "to": "http://irail.be/stations/NMBS/008821147",
+            "depTime": "2018-06-14T15:50:00.000Z",
+            "maxTransf": 1,
+            "connections": 8038
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821634",
+            "to": "http://irail.be/stations/NMBS/008812070",
+            "depTime": "2018-06-14T15:50:00.000Z",
+            "maxTransf": 2,
+            "connections": 8038
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008814340",
+            "to": "http://irail.be/stations/NMBS/008896925",
+            "depTime": "2018-06-14T16:10:00.000Z",
+            "maxTransf": 2,
+            "connections": 8201
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008814209",
+            "to": "http://irail.be/stations/NMBS/008811775",
+            "depTime": "2018-06-14T14:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 8375
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008894508",
+            "to": "http://irail.be/stations/NMBS/008814308",
+            "depTime": "2018-06-14T15:40:00.000Z",
+            "maxTransf": 2,
+            "connections": 8545
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008874567",
+            "to": "http://irail.be/stations/NMBS/008813003",
+            "depTime": "2018-06-14T15:40:00.000Z",
+            "maxTransf": 1,
+            "connections": 8545
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008841327",
+            "to": "http://irail.be/stations/NMBS/008863453",
+            "depTime": "2018-06-14T15:40:00.000Z",
+            "maxTransf": 3,
+            "connections": 8545
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008881174",
+            "to": "http://irail.be/stations/NMBS/008884632",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 1,
+            "connections": 8569
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821436",
+            "to": "http://irail.be/stations/NMBS/008822343",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 3,
+            "connections": 8569
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008871183",
+            "to": "http://irail.be/stations/NMBS/008872587",
+            "depTime": "2018-06-14T15:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 8586
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008894508",
+            "to": "http://irail.be/stations/NMBS/008896800",
+            "depTime": "2018-06-14T15:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 8586
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811155",
+            "to": "http://irail.be/stations/NMBS/008821154",
+            "depTime": "2018-06-14T14:10:00.000Z",
+            "maxTransf": 3,
+            "connections": 8835
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008812112",
+            "to": "http://irail.be/stations/NMBS/008811197",
+            "depTime": "2018-06-14T14:10:00.000Z",
+            "maxTransf": 2,
+            "connections": 8835
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008893401",
+            "to": "http://irail.be/stations/NMBS/008822475",
+            "depTime": "2018-06-14T14:30:00.000Z",
+            "maxTransf": 2,
+            "connections": 9009
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008833670",
+            "to": "http://irail.be/stations/NMBS/008811221",
+            "depTime": "2018-06-14T14:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 9267
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008881463",
+            "to": "http://irail.be/stations/NMBS/008814308",
+            "depTime": "2018-06-14T14:40:00.000Z",
+            "maxTransf": 2,
+            "connections": 9625
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008891702",
+            "to": "http://irail.be/stations/NMBS/008811163",
+            "depTime": "2018-06-14T15:40:00.000Z",
+            "maxTransf": 2,
+            "connections": 9661
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008892007",
+            "to": "http://irail.be/stations/NMBS/008882248",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 9689
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008884566",
+            "to": "http://irail.be/stations/NMBS/008886546",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 3,
+            "connections": 9689
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008814340",
+            "to": "http://irail.be/stations/NMBS/008893526",
+            "depTime": "2018-06-14T15:00:00.000Z",
+            "maxTransf": 2,
+            "connections": 9731
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008893013",
+            "to": "http://irail.be/stations/NMBS/008833175",
+            "depTime": "2018-06-14T14:30:00.000Z",
+            "maxTransf": 2,
+            "connections": 10144
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008811007",
+            "to": "http://irail.be/stations/NMBS/008884004",
+            "depTime": "2018-06-14T14:30:00.000Z",
+            "maxTransf": 3,
+            "connections": 10144
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008872009",
+            "to": "http://irail.be/stations/NMBS/008895620",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 3,
+            "connections": 10218
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008874559",
+            "to": "http://irail.be/stations/NMBS/008844503",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 2,
+            "connections": 10218
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008822004",
+            "to": "http://irail.be/stations/NMBS/008864501",
+            "depTime": "2018-06-14T15:30:00.000Z",
+            "maxTransf": 1,
+            "connections": 10218
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008886348",
+            "to": "http://irail.be/stations/NMBS/008893559",
+            "depTime": "2018-06-14T15:10:00.000Z",
+            "maxTransf": 3,
+            "connections": 10279
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008843323",
+            "to": "http://irail.be/stations/NMBS/008874054",
+            "depTime": "2018-06-14T15:10:00.000Z",
+            "maxTransf": 1,
+            "connections": 10279
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821535",
+            "to": "http://irail.be/stations/NMBS/008814308",
+            "depTime": "2018-06-14T14:00:00.000Z",
+            "maxTransf": 3,
+            "connections": 10397
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008821709",
+            "to": "http://irail.be/stations/NMBS/008893526",
+            "depTime": "2018-06-14T14:20:00.000Z",
+            "maxTransf": 1,
+            "connections": 10640
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008892627",
+            "to": "http://irail.be/stations/NMBS/008821832",
+            "depTime": "2018-06-14T15:20:00.000Z",
+            "maxTransf": 2,
+            "connections": 10805
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008893518",
+            "to": "http://irail.be/stations/NMBS/008822517",
+            "depTime": "2018-06-14T14:10:00.000Z",
+            "maxTransf": 1,
+            "connections": 11100
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008896008",
+            "to": "http://irail.be/stations/NMBS/008811403",
+            "depTime": "2018-06-14T14:00:00.000Z",
+            "maxTransf": 3,
+            "connections": 11532
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008812112",
+            "to": "http://irail.be/stations/NMBS/008842689",
+            "depTime": "2018-06-14T14:20:00.000Z",
+            "maxTransf": 3,
+            "connections": 11785
+        },
+        {
+            "company": "nmbs",
+            "from": "http://irail.be/stations/NMBS/008886504",
+            "to": "http://irail.be/stations/NMBS/008841004",
+            "depTime": "2018-06-14T14:00:00.000Z",
+            "maxTransf": 1,
+            "connections": 13797
+        }
+    ]
+}
